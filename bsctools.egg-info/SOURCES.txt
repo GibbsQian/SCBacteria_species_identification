@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+bsctools/__init__.py
+bsctools/barcode_count.py
+bsctools/bscpieplot.py
+bsctools/bsctools.py
+bsctools/inanno.py
+bsctools/index_compare.py
+bsctools/version.py
+bsctools.egg-info/PKG-INFO
+bsctools.egg-info/SOURCES.txt
+bsctools.egg-info/dependency_links.txt
+bsctools.egg-info/entry_points.txt
+bsctools.egg-info/requires.txt
+bsctools.egg-info/top_level.txt

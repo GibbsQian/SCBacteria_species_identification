@@ -1,0 +1,5 @@
+TATTTGTCGCCTACTGGTGGCACATGGTGT	17445	1565	45453	0.3278	d_Bacteria|p_Firmicutes|c_Clostridia|o_Lachnospirales|f_Lachnospiraceae|g_Lachnospiraceae NK3A20 group
+GGATGCTCGACAGGAACTAATATAAAGGAA	16797	1451	43943	0.5190	d_Bacteria|p_Bacteroidota|c_Bacteroidia|o_Bacteroidales|f_Prevotellaceae|g_Prevotella
+GGCGTGCTTTGCAGGTGCAGACTACTAATA	16676	1006	45453	0.3062	d_Bacteria|p_Firmicutes|c_Clostridia|o_Lachnospirales|f_Lachnospiraceae|g_Lachnospiraceae NK3A20 group
+AAAGTTGCAATCAGTGGGTTTACCGGATTA	16180	1252	45409	0.4441	d_Bacteria|p_Firmicutes|c_Clostridia|o_Lachnospirales|f_Lachnospiraceae
+TCATTAACAGATAGAAACGATCGGGTAATC	14615	1330	43943	0.4737	d_Bacteria|p_Bacteroidota|c_Bacteroidia|o_Bacteroidales|f_Prevotellaceae|g_Prevotella

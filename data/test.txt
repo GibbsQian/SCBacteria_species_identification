@@ -1,0 +1,8 @@
+##To test the module, we filtered only five kinds of barcode from kraken2 output file.
+
+bsctools inanno --module barcode_count --kraken-output XBRG-482.silva.filtered.output --kraken-treated-report XBRG-482.silva.report.mpa.newx --prefix XBRG-482.silva.filtered
+bsctools inanno --module barcode_count --kraken-output XBRG-482.refseq.output --kraken-treated-report XBRG-482.refseq.report.mpa.newx --prefix XBRG-482.refseq
+
+bsctools inanno --module index_compare --refseq-result XBRG-482.refseq.filtered.barcode_count.txt --amplicon-result XBRG-482.silva.filtered.barcode_count.txt --prefix XBRG-482.filtered
+
+bsctools inanno --module count_component --barcode-count XBRG-482.refseq.filtered.barcode_count.txt --kraken-output XBRG-482.refseq.filtered.output --kraken-report XBRG-482.refseq.report
